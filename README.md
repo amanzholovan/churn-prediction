@@ -1,4 +1,3 @@
-```markdown
 # Customer Churn Prediction — Iranian Telecom Dataset
 
 Predicting which telecom customers are likely to churn, so retention efforts can be
@@ -73,5 +72,4 @@ Complaints, Customer Value, Subscription Length.
 churner (false negative) is far costlier to the business than an unnecessary retention offer
 (false positive).
 
-```
 
